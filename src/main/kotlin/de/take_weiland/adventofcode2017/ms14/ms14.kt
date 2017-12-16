@@ -1,4 +1,4 @@
-package de.take_weiland.adventofcode2017.ms13
+package de.take_weiland.adventofcode2017.ms14
 
 import de.take_weiland.adventofcode2017.ms10.getKnotHash
 import de.take_weiland.adventofcode2017.ms12.removeFirst
